@@ -38,5 +38,6 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.3.3"
-  }
+  },
+  "homepage": "/docs"
 }
